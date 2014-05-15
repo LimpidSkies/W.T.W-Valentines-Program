@@ -7,3 +7,8 @@ Eventually, the program will be able to compare the responses of Quiz takers.
 
 To whoever is reading this: you will not be able to run this code without first downloading Apache.poi and then
 completing a complex build path.  
+
+mkdir ~/Valentines-Program
+cd ~/Valentines-Program
+git init
+touch README
